@@ -1,9 +1,9 @@
-![Wikifeedia](https://github.com/hackerkid/Wikifeedia/blob/gh-pages/static/wikifeedia.png) 
+![Wikifeedia](https://github.com/theaadithyan/Wikifeedia/blob/gh-pages/static/wikifeedia.png) 
 ##Wikipedia delivered as a Newsfeed
 
 Wikipedia is the first place I would look at when I want to know more about anything. Like me most of the people end up in Wikepdia at the time of a need. Why are people not visiting Wikipedia for fun like Quora?. [Wikifeedia](http://vishnuks.com/Wikifeedia) was made to fix this problem.  
 
-![alt tag](https://github.com/gauthamzz/Wikifeedia/blob/gh-pages/gif.gif)
+![alt tag](https://github.com/theaadithyan/wikify/blob/gh-pages/gif.gif)
 
 ##How it works?
 
@@ -13,7 +13,7 @@ The backend of Wikifeedia can be found [here](https://github.com/hackerkid/Wikif
 
 ##Installation 
 ```
-git clone https://github.com/hackerkid/Wikifeedia/
+git clone https://github.com/theaadithyan/Wikifeedia/
 cd Wikifeedia
 python -m SimpleHTTPServer
 ```
